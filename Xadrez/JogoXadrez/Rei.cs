@@ -15,7 +15,7 @@ namespace Xadrez.JogoXadrez
 
         public override string ToString()
         {
-            return "R";
+            return "R ";
         }
 
     }
